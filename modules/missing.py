@@ -20,7 +20,7 @@ def plot_missing_percentage(df):
     percentage_missing = percentage_missing.drop('index', axis=1)
 
     # Plot the results
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(18, 5))
     ax = sns.barplot(x='missing_percentage %', y='column', data=percentage_missing, color='#E1341E')
     for p in ax.patches:
         ax.annotate("%.2f" % p.get_width() + '%', xy=(p.get_width(), p.get_y()+p.get_height()/2),
