@@ -1,4 +1,4 @@
-# Project Based Virtual Internship Final Task: Home Credit Indonesia Scorecard Model
+# <img src="https://yt3.googleusercontent.com/ytc/AIdro_n0EO16H6Cu5os9ZOOP1_BsmeruHYlmlOcToYvI=s900-c-k-c0x00ffffff-no-rj" width="30"> Project Based Virtual Internship Final Task: Home Credit Indonesia Scorecard Model <img src="https://yt3.googleusercontent.com/ytc/AIdro_n0EO16H6Cu5os9ZOOP1_BsmeruHYlmlOcToYvI=s900-c-k-c0x00ffffff-no-rj" width="30">
 
 <div style="display: flex; justify-content: center;">
   <img src="https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/images/logo_rakamin-f00322ea-dc6a-4540-b427-c90a1fc87691.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATEHFT35YRRD7BK7S%2F20240306%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20240306T174551Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b6c98e57f6613a699eb6d0c904b5af683dca69e9e2e757fc1630cb286db67f3" width="400" height=150 />
