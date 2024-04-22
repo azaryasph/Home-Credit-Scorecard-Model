@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="#">
+    <img src="https://badges.pufler.dev/visits/azaryasph/Home-Credit-Scorecard-Model" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/updated/azaryasph/Home-Credit-Scorecard-Model" alt="Updated Badge">
+    <img src="https://badges.pufler.dev/created/azaryasph/Home-Credit-Scorecard-Model" alt="Created Badge">
+    <img src="https://img.shields.io/github/contributors/azaryasph/Home-Credit-Scorecard-Model" alt="Contributors Badge">
+    <img src="https://img.shields.io/github/last-commit/azaryasph/Home-Credit-Scorecard-Model" alt="Last Commit Badge">
+    <img src="https://img.shields.io/github/commit-activity/m/azaryasph/Home-Credit-Scorecard-Model" alt="Commit Activity Badge">
+    <img src="https://img.shields.io/github/repo-size/azaryasph/Home-Credit-Scorecard-Model" alt="Repo Size Badge">
+    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome">
+    <img src="https://www.codefactor.io/repository/github/azaryasph/Home-Credit-Scorecard-Model/badge" alt="CodeFactor" />
+  </a>
+</p>
+
 # <img src="https://yt3.googleusercontent.com/ytc/AIdro_n0EO16H6Cu5os9ZOOP1_BsmeruHYlmlOcToYvI=s900-c-k-c0x00ffffff-no-rj" width="30"> Project Based Virtual Internship Final Task: Home Credit Indonesia Scorecard Model <img src="https://yt3.googleusercontent.com/ytc/AIdro_n0EO16H6Cu5os9ZOOP1_BsmeruHYlmlOcToYvI=s900-c-k-c0x00ffffff-no-rj" width="30">
 
 <div style="display: flex; justify-content: center;">
